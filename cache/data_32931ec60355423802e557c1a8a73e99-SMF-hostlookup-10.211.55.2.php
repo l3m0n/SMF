@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1484105408 < time()) $expired = true; else{$expired = false; $value = 's:15:"MACBOOKPRO-2CAF";';}?>

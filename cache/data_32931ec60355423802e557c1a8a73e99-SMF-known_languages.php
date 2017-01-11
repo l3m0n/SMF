@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1484107311 < time()) $expired = true; else{$expired = false; $value = 'a:1:{s:7:"english";a:4:{s:4:"name";s:7:"English";s:8:"selected";b:0;s:8:"filename";s:7:"english";s:8:"location";s:77:"C:\\WWW\\code-src\\smf_2-0-13_install/Themes/default/languages/index.english.php";}}';}?>
